@@ -94,7 +94,7 @@
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=PREM-GUPTA8851&theme=tokyonight&hide_border=true"
+  src="https://streak-stats.demolab.com?user=PREM-GUPTA1001&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 />
 
@@ -107,7 +107,7 @@
 <p align="center">
 
 <img
-  src="https://leogitreadme.vercel.app/api/trophy?username=PREM-GUPTA8851&theme=tokyonight"
+  src="https://leogitreadme.vercel.app/api/trophy?username=PREM-GUPTA1001&theme=tokyonight"
   alt="GitHub Trophies"
 />
 
