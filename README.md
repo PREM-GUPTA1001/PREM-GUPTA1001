@@ -105,14 +105,11 @@
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img
-  src="https://leogitreadme.vercel.app/api/trophy?username=PREM-GUPTA1001&theme=tokyonight"
-  alt="GitHub Trophies"
-/>
-
+  <img
+    src="https://leogitreadme.vercel.app/api/trophy?username=PREM-GUPTA1001&theme=tokyonight"
+    alt="GitHub Trophies"
+  />
 </p>
-
 ---
 
 # 🌐 Connect With Me
