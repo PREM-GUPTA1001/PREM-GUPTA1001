@@ -131,25 +131,21 @@
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/prem-kumar-gupta-3b253b367/">
-  <img
-    src="https://skillicons.dev/icons?i=linkedin"
-    height="50"
-    alt="LinkedIn"
-  />
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://github.com/PREM-GUPTA8851">
-  <img
-    src="https://skillicons.dev/icons?i=github"
-    height="50"
-    alt="GitHub"
-  />
-</a>
-
+  <a href="https://www.linkedin.com/in/prem-kumar-gupta-3b253b367/">
+    <img
+      src="https://skillicons.dev/icons?i=linkedin"
+      height="50"
+      alt="LinkedIn"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/PREM-GUPTA8851">
+    <img
+      src="https://skillicons.dev/icons?i=github"
+      height="50"
+      alt="GitHub"
+    />
+  </a>
 </p>
 
 ---
