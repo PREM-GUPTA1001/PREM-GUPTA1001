@@ -88,7 +88,6 @@
 </p>
 
 ---
-
 # 🔥 GitHub Streak
 
 <div align="center">
@@ -102,15 +101,32 @@
 
 ---
 
+# 💻 Coding Profile
+
+<p align="center">
+
+<img
+  src="./Coding_Profile.png"
+  alt="Prem Kumar Gupta Coding Profile"
+  width="100%"
+/>
+
+</p>
+
+---
+
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img
-    src="https://leogitreadme.vercel.app/api/trophy?username=PREM-GUPTA1001&theme=tokyonight"
-    alt="GitHub Trophies"
-  />
+
+<img
+  src="https://leogitreadme.vercel.app/api/trophy?username=PREM-GUPTA1001&theme=tokyonight"
+  alt="GitHub Trophies"
+/>
+
 </p>
 
+---
 
 # 🌐 Connect With Me
 
@@ -123,6 +139,8 @@
     alt="LinkedIn"
   />
 </a>
+
+&nbsp;&nbsp;&nbsp;
 
 <a href="https://github.com/PREM-GUPTA8851">
   <img
